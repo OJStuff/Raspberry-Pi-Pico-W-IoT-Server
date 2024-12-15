@@ -57,3 +57,4 @@ The software is made with [Thonny IDE](https://thonny.org/).
 ## Screenshots
 
 ![Raspberry-Pi-Pico-W-IoT-Server](Raspberry-Pi-Pico-W-IoT-Server.png)
+
