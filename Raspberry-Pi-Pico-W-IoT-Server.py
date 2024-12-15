@@ -2,7 +2,7 @@
 Environment: Thonny IDE v4.1.6 and MicroPython v1.24.1.
 Hardware: Raspberry Pi Pico W
 Copyright: Released under CC BY-SA 4.0
-Author: GitHub/OJStuff, December 08, 2024, v24.12
+Author: GitHub/OJStuff, December 15, 2024, v24.12
 """
 
 from machine import Pin, ADC, PWM
@@ -63,7 +63,7 @@ port_cfg = [
     [1, 2, 0, "GP 26", "ADC ch=1, volts"],
     [1, 2, 0, "GP 27", "ADC ch=2, volts"],
     [1, 2, 0, "GP 28", "ADC ch=3, volts"],
-    [1, 2, 0, "GP 29", "ADC ch=4, core temp (deg C)"],
+    [1, 2, 0, "ADC-4", "ADC ch=4, core temp (deg C)"],
 ]
 
 
