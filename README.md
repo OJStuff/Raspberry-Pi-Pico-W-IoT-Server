@@ -46,7 +46,7 @@ To adapt the software for your needs, the simplest way of doing this is to chang
     [1, 2, 0, "GP 26", "ADC ch=1, volts"],
     [1, 2, 0, "GP 27", "ADC ch=2, volts"],
     [1, 2, 0, "GP 28", "ADC ch=3, volts"],
-    [1, 2, 0, "GP 29", "ADC ch=4, core temp (deg C)"]
+    [1, 2, 0, "ADC-4", "ADC ch=4, core temp (deg C)"]
 
 When using av device with touch-screen, you must activate use of touchscreen with the onscreen checkbox. If not, the sliders will probably not work.
 
